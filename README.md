@@ -4,7 +4,6 @@
 - 🪩 Atualmente estou estagiando na área de Qualidade de Dados.
 - 🐛 Estou aprendendo mais sobre Engenharia e Governança de Dados. Para o trabalho, estou aperfeiçoando meus conhecimentos na plataforma Databricks e na utilização de ferramentas como Spark.
 - 🦋  Na faculdade me interesso mais pelas materias de Inteligencia Artificial, Quality Assurance, DevopsTools & Cloud Computing e me esforço no Front-End também :)
-- 🦉 Pronouns: ela/dela
 - 🐇 Fun fact: amo bichinhos e tenho uma coelhinha
 
 
