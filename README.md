@@ -7,7 +7,6 @@
 - 🐇 Fun fact: amo bichinhos e tenho uma coelhinha
 
 
-
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://github.com/vargasdani/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vargasdani&count_private=true&show_icons=true&theme=radical&hide_rank=true" />
